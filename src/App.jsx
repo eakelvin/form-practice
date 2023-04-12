@@ -9,7 +9,7 @@ function App() {
         email: "",
         password: "",
         confirmPassword: "",
-        joinNewsLetter: true
+        joinNewsLetter: false
     })
 
     function handleChange(event) {
